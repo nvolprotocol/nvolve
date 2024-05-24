@@ -1,0 +1,22 @@
+[Unit]
+Description=Nvolve's distributed currency daemon
+After=network.target
+
+[Service]
+User=nvolvecore
+Group=nvolvecore
+
+Type=forking
+PIDFile=/var/lib/nvolved/nvolved.pid
+ExecStart=/usr/bin/nvolved -daemon -pid=/var/lib/nvolved/nvolved.pid \
+-conf=/etc/nvolvecore/nvolve.conf -datadir=/var/lib/nvolved -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

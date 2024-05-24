@@ -1,0 +1,6 @@
+usr/local/bin/nvolve-qt usr/bin
+share/pixmaps/nvolve32.xpm usr/share/pixmaps
+share/pixmaps/nvolve16.xpm usr/share/pixmaps
+share/pixmaps/nvolve128.png usr/share/pixmaps
+debian/nvolve-qt.desktop usr/share/applications
+debian/nvolve-qt.protocol usr/share/kde4/services/

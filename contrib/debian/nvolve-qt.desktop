@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nvolve Core
+Comment=Nvolve P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Nvolve peer-to-peer Netzwerk
+Comment[fr]=Nvolve, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Nvolve, eşten eşe kriptografik sanal para birimi
+Exec=nvolve-qt %u
+Terminal=false
+Type=Application
+Icon=nvolve128
+MimeType=x-scheme-handler/nvolve;
+Categories=Office;Finance;

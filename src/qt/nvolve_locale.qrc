@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/nvolve_ar.qm</file>
+        <file alias="bg">locale/nvolve_bg.qm</file>
+        <file alias="de">locale/nvolve_de.qm</file>
+        <file alias="en">locale/nvolve_en.qm</file>
+        <file alias="es">locale/nvolve_es.qm</file>
+        <file alias="fi">locale/nvolve_fi.qm</file>
+        <file alias="fr">locale/nvolve_fr.qm</file>
+        <file alias="it">locale/nvolve_it.qm</file>
+        <file alias="ja">locale/nvolve_ja.qm</file>
+        <file alias="ko">locale/nvolve_ko.qm</file>
+        <file alias="nl">locale/nvolve_nl.qm</file>
+        <file alias="pl">locale/nvolve_pl.qm</file>
+        <file alias="pt">locale/nvolve_pt.qm</file>
+        <file alias="ro">locale/nvolve_ro.qm</file>
+        <file alias="ru">locale/nvolve_ru.qm</file>
+        <file alias="sk">locale/nvolve_sk.qm</file>
+        <file alias="th">locale/nvolve_th.qm</file>
+        <file alias="tr">locale/nvolve_tr.qm</file>
+        <file alias="vi">locale/nvolve_vi.qm</file>
+        <file alias="zh_CN">locale/nvolve_zh_CN.qm</file>
+        <file alias="zh_TW">locale/nvolve_zh_TW.qm</file>
+    </qresource>
+</RCC>
