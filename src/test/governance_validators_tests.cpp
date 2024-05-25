@@ -1,5 +1,5 @@
 // Copyright (c) 2014-2019 The Dash Core developers
-// Copyright (c) 2020-2022 The Nvolve developers
+// Copyright (c) 2023-2024 The Nvolve developers
 
 #include <governance/governance-validators.h>
 #include <utilstrencodings.h>

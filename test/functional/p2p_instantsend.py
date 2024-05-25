@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) 2018-2020 The Dash Core developers
-# Copyright (c) 2020-2022 The Nvolve developers
+# Copyright (c) 2023-2024 The Nvolve developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
